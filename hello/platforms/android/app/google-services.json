@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "200120933844",
+    "firebase_url": "https://resulticksapplications.firebaseio.com",
+    "project_id": "resulticksapplications",
+    "storage_bucket": "resulticksapplications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200120933844:android:af5e27c481d2db59fcca41",
+        "android_client_info": {
+          "package_name": "com.resulticks.visionbankcordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200120933844-pns3g5cujk0pst73t1b0h60fusbqectb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR9D5bNJ9rjdh7Ewm1TrZFHzvhgGrBUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200120933844-pns3g5cujk0pst73t1b0h60fusbqectb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200120933844-0g8ch0okip7osiarfpg9cljulpvqijr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.resulticks.visiontravel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200120933844:android:64fa9697a004d257fcca41",
+        "android_client_info": {
+          "package_name": "com.resulticks.visionbankionic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200120933844-pns3g5cujk0pst73t1b0h60fusbqectb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR9D5bNJ9rjdh7Ewm1TrZFHzvhgGrBUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200120933844-pns3g5cujk0pst73t1b0h60fusbqectb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200120933844-0g8ch0okip7osiarfpg9cljulpvqijr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.resulticks.visiontravel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200120933844:android:e89adbfab877e727fcca41",
+        "android_client_info": {
+          "package_name": "com.resulticks.visionbankrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200120933844-pns3g5cujk0pst73t1b0h60fusbqectb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR9D5bNJ9rjdh7Ewm1TrZFHzvhgGrBUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200120933844-pns3g5cujk0pst73t1b0h60fusbqectb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200120933844-0g8ch0okip7osiarfpg9cljulpvqijr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.resulticks.visiontravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
